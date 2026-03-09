@@ -28,10 +28,13 @@ Create and merge branches
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+how to create a professional README 
+how to merge and push to repositor
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+Typing errors
+navigating directories
+Rembering commands
 
 ## Screenshots (optional)
 "C:\Users\user\OneDrive\Afbeeldingen\Screenshots\Screenshot 2026-03-09 162313.png"
